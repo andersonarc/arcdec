@@ -1,0 +1,9 @@
+%{
+#include "directive.h"
+%}
+struct pp_directive;
+%%
+@architecture, DC_ARCHITECTURE
+@instruction, DC_INSTRUCTION
+@define, DC_DEFINE
+@include, DC_INCLUDE

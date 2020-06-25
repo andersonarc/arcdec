@@ -4,5 +4,5 @@
 #
 
 # add source subdirectories
-add_subdirectory(preprocessor)
+add_subdirectory(module)
 add_subdirectory(utilities)
